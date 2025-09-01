@@ -1,5 +1,5 @@
 ---
-title: "Module 1: Intro to R programming"
+title: "Module 1: Introduction to Statistical Methods"
 ---
 
 1. Research process

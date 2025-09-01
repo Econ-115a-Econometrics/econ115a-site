@@ -21,7 +21,7 @@ website:
       - section: "Topics"
         contents:
           - href: "m1-intro-stat.qmd"
-            text: "Module 1: Introduction to Statistics"
+            text: "Module 1: Introduction to Statistical Methods"
           - href: "m2-eda.qmd"
             text: "Module 2: Exploratory data analysis (EDA)"
           - href: "m3-exploring-assumptions.qmd"
