@@ -1,1 +1,1 @@
-Sitemap: https://agec211-stat-methods.github.io/agec211-site/sitemap.xml
+Sitemap: https://econ-115a-econometrics.github.io/econ115a-site/sitemap.xml

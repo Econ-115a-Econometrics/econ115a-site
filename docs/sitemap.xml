@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://agec211-stat-methods.github.io/agec211-site/index.html</loc>
-    <lastmod>2025-08-31T07:36:36.460Z</lastmod>
+    <loc>https://econ-115a-econometrics.github.io/econ115a-site/m1-intro-stat.html</loc>
+    <lastmod>2025-09-01T01:56:10.647Z</lastmod>
   </url>
   <url>
-    <loc>https://agec211-stat-methods.github.io/agec211-site/about.html</loc>
-    <lastmod>2025-08-31T06:36:53.087Z</lastmod>
+    <loc>https://econ-115a-econometrics.github.io/econ115a-site/about.html</loc>
+    <lastmod>2025-09-01T01:49:41.997Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econ-115a-econometrics.github.io/econ115a-site/index.html</loc>
+    <lastmod>2025-09-01T01:49:42.021Z</lastmod>
   </url>
 </urlset>

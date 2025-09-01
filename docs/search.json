@@ -1,5 +1,23 @@
 [
   {
+    "objectID": "m1-intro-stat.html",
+    "href": "m1-intro-stat.html",
+    "title": "Module 1: Intro to R programming",
+    "section": "",
+    "text": "Research process\nTypes of data analysis\nGenerating and testing theories\nLevels of measurement\nValidity and reliability\nCentral tendency\nType of hypotheses\n\nView slides in new window\n\n\n\n\n\n\n\n\n\n\nPresentation keyboard shortcuts\n\n\n\n\n\n\nUse ← and → to navigate through the slides\n\n\nUse F to toggle full screen\n\n\nUse O to view an overview of all slides\n\n\nUse ? to see a list of other shortcuts",
+    "crumbs": [
+      "Topics",
+      "Module 1: Introduction to Statistics"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Econ 115a: Econometrics",
@@ -18,12 +36,5 @@
     "crumbs": [
       "Home"
     ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]

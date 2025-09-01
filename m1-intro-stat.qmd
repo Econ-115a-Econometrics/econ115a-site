@@ -1,0 +1,41 @@
+---
+title: "Module 1: Intro to R programming"
+---
+
+1. Research process
+2. Types of data analysis
+3. Generating and testing theories
+4. Levels of measurement
+5. Validity and reliability
+6. Central tendency
+7. Type of hypotheses
+
+<a href="https://econ-115a-econometrics.github.io/econ115a-lectures/m1-intro-statistics" target="_blank" class="btn-slides">View slides in new window</a>
+
+::: {.box style="padding-bottom:56.25%; position:relative; display:block; width: 100%"}
+<iframe width="100%" height="100%" src="https://econ-115a-econometrics.github.io/econ115a-lectures/m1-intro-statistics" frameborder="0" allowfullscreen style="position:absolute; top:0; left: 0">
+
+</iframe>
+:::
+
+:::: callout-tip
+## Presentation keyboard shortcuts
+
+::: text-line-space
+<ul>
+
+<li>Use <kbd>←</kbd> and <kbd>→</kbd> to navigate through the slides</li>
+
+<li>Use <kbd>F</kbd> to toggle full screen</li>
+
+<li>Use <kbd>O</kbd> to view an overview of all slides</li>
+
+<li>Use <kbd>?</kbd> to see a list of other shortcuts</li>
+
+</ul>
+:::
+::::
+
+<br>
+
+
