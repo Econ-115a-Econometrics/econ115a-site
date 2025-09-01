@@ -4,7 +4,18 @@
     "href": "m1-intro-stat.html",
     "title": "Module 1: Introduction to Statistical Methods",
     "section": "",
-    "text": "Research process\nTypes of data analysis\nGenerating and testing theories\nLevels of measurement\nValidity and reliability\nCentral tendency\nType of hypotheses\n\nView slides in new window\n\n\n\n\n\n\n\n\n\n\nPresentation keyboard shortcuts\n\n\n\n\n\n\nUse ← and → to navigate through the slides\n\n\nUse F to toggle full screen\n\n\nUse O to view an overview of all slides\n\n\nUse ? to see a list of other shortcuts",
+    "text": "Research process\nTypes of data analysis\nGenerating and testing theories\nLevels of measurement\nValidity and reliability\nCentral tendency\nType of hypotheses\nView slides in new window",
+    "crumbs": [
+      "Topics",
+      "Module 1: Introduction to Statistical Methods"
+    ]
+  },
+  {
+    "objectID": "m1-intro-stat.html#task-1-theory-hypotheses-and-research-questions",
+    "href": "m1-intro-stat.html#task-1-theory-hypotheses-and-research-questions",
+    "title": "Module 1: Introduction to Statistical Methods",
+    "section": "Task 1: theory, hypotheses, and research questions",
+    "text": "Task 1: theory, hypotheses, and research questions\nObjective:\nThis assignment introduces the logic of empirical research by guiding you through theory development, hypothesis formulation, and research question design. Your focus will be on university students as the population of interest. Later in the course, you will gather and analyze data to test your ideas.\nInstructions:\n\nDevelop a Theory\n\n\nPropose a brief theoretical statement (or set of statements) that explains a relationship between two or more variables relevant to university student behavior, attitudes, or outcomes. Your theory should reflect a plausible mechanism or pattern that could be tested statistically.\nExamples:\n\nStudents who sleep fewer than six hours per night are more likely to report academic stress.\nParticipation in student organizations improves self-reported leadership confidence.\nStudents with part-time jobs are less likely to attend extracurricular academic seminars.\n\n\n\nFormulate Hypotheses\n\n\nBased on your theory, write at least one testable hypothesis. This should be a specific, measurable statement that can be evaluated using statistical methods.\nExamples:\n\nStudents who sleep fewer than six hours will score higher on a standardized stress scale than those who sleep more.\nStudents involved in two or more organizations will rate their leadership confidence higher than those not involved.\n\n\n\nGenerate Research Questions\n\n\nWrite at least three research questions that emerge from your theory and hypotheses. These should be clear, focused, and suitable for quantitative analysis.\nExamples:\n\nWhat is the average number of hours university students sleep on weekdays?\nIs there a significant relationship between sleep duration and academic stress levels?\nDo students with part-time jobs attend fewer academic events than those without?",
     "crumbs": [
       "Topics",
       "Module 1: Introduction to Statistical Methods"

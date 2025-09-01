@@ -39,3 +39,37 @@ title: "Module 1: Introduction to Statistical Methods"
 <br>
 
 
+## Task 1: theory, hypotheses, and research questions 
+
+**Objective**:
+
+This assignment introduces the logic of empirical research by guiding you through theory development, hypothesis formulation, and research question design. Your focus will be on university students as the population of interest. Later in the course, you will gather and analyze data to test your ideas.
+
+**Instructions**:
+
+1. **Develop a Theory**
+  - Propose a brief theoretical statement (or set of statements) that explains a relationship between two or more variables relevant to university student behavior, attitudes, or outcomes. Your theory should reflect a plausible mechanism or pattern that could be tested statistically.
+
+- Examples:
+  - Students who sleep fewer than six hours per night are more likely to report academic stress.
+  - Participation in student organizations improves self-reported leadership confidence.
+  - Students with part-time jobs are less likely to attend extracurricular academic seminars.
+  
+2. **Formulate Hypotheses**
+  - Based on your theory, write at least one testable hypothesis. This should be a specific, measurable statement that can be evaluated using statistical methods.
+
+- Examples:
+  - Students who sleep fewer than six hours will score higher on a standardized stress scale than those who sleep more.
+  - Students involved in two or more organizations will rate their leadership confidence higher than those not involved.
+  
+3. **Generate Research Questions**
+  - Write at least three research questions that emerge from your theory and hypotheses. These should be clear, focused, and suitable for quantitative analysis.
+
+- Examples:
+  - What is the average number of hours university students sleep on weekdays?
+  - Is there a significant relationship between sleep duration and academic stress levels?
+  - Do students with part-time jobs attend fewer academic events than those without?
+
+
+
+
