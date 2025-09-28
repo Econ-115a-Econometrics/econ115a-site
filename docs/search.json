@@ -1,32 +1,14 @@
 [
   {
-    "objectID": "m1-intro-stat.html",
-    "href": "m1-intro-stat.html",
-    "title": "Module 1: Introduction to Statistical Methods",
+    "objectID": "m2-survey-design.html",
+    "href": "m2-survey-design.html",
+    "title": "Module 1: Survey Research Design",
     "section": "",
-    "text": "Research process\nTypes of data analysis\nGenerating and testing theories\nLevels of measurement\nValidity and reliability\nCentral tendency\nType of hypotheses\nView slides in new window",
+    "text": "Methods of data collection\nSampling design in surveys\nMeasurement issues in survey research\nQuestionnaire construction\nBasics of interviewing\nCreating a codebook\nData entry\n\nView slides in new window\n\n\n\n\n\n\n\n\n\n\nPresentation keyboard shortcuts\n\n\n\n\n\n\nUse ← and → to navigate through the slides\n\n\nUse F to toggle full screen\n\n\nUse O to view an overview of all slides\n\n\nUse ? to see a list of other shortcuts",
     "crumbs": [
       "Topics",
-      "Module 1: Introduction to Statistical Methods"
+      "Module 2: Survey Research Design"
     ]
-  },
-  {
-    "objectID": "m1-intro-stat.html#task-1-theory-hypotheses-and-research-questions",
-    "href": "m1-intro-stat.html#task-1-theory-hypotheses-and-research-questions",
-    "title": "Module 1: Introduction to Statistical Methods",
-    "section": "Task 1: theory, hypotheses, and research questions",
-    "text": "Task 1: theory, hypotheses, and research questions\n\n\n\n\n\n\nTask submission\n\n\n\nSubmit your responses to the google form provided below.\n\nsubmission link: Task 1 submission\n\n\n\nObjective:\nThis assignment introduces the logic of empirical research by guiding you through theory development, hypothesis formulation, and research question design. Your focus will be on university students as the population of interest. Later in the course, you will gather and analyze data to test your ideas.\nInstructions:\n\nDevelop a Theory\n\n\nPropose a brief theoretical statement (or set of statements) that explains a relationship between two or more variables relevant to university student behavior, attitudes, or outcomes. Your theory should reflect a plausible mechanism or pattern that could be tested statistically.\nExamples:\n\nStudents who sleep fewer than six hours per night are more likely to report academic stress.\nParticipation in student organizations improves self-reported leadership confidence.\nStudents with part-time jobs are less likely to attend extracurricular academic seminars.\n\n\n\nFormulate Hypotheses\n\n\nBased on your theory, write at least one testable hypothesis. This should be a specific, measurable statement that can be evaluated using statistical methods.\nExamples:\n\nStudents who sleep fewer than six hours will score higher on a standardized stress scale than those who sleep more.\nStudents involved in two or more organizations will rate their leadership confidence higher than those not involved.\n\n\n\nGenerate Research Questions\n\n\nWrite at least three research questions that emerge from your theory and hypotheses. These should be clear, focused, and suitable for quantitative analysis.\nExamples:\n\nWhat is the average number of hours university students sleep on weekdays?\nIs there a significant relationship between sleep duration and academic stress levels?\nDo students with part-time jobs attend fewer academic events than those without?",
-    "crumbs": [
-      "Topics",
-      "Module 1: Introduction to Statistical Methods"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "index.html",
@@ -46,6 +28,35 @@
     "text": "Course outline\n\n\n\n\n\n\n\n\n\nWeek\nTopics\nLessons\nDescription\n\n\n\n\nWeek 1-2\nModule 1: Introduction to Statistical Methods\n\nRole of statistics in economics\nDiscuss the importance of statistics in economic research and policy analysis. Introduce types of data and variables.\nOverview of statistical inference\nExplain sampling, estimation, and hypothesis testing.\nIntroduce population vs. sample concepts.\n\n\nFamiliarize students with RStudio, basic syntax, and data structures in R.\n\n\n\nWeek 3-4\nModule 2: Exploratory Data Analysis (EDA)\n\nData visualization techniques\nMeasures of central tendency and dispersion\nDistributional properties\n\n\nUse R to create histograms, boxplots, scatterplots, and bar charts.\nDiscuss mean, median, mode, range, variance, and standard deviation. Apply these using R.\nExamine skewness, kurtosis, and normality. Use graphical and statistical tools to assess distributions.\n\n\n\nWeek 5\nModule 3: Exploring Assumptions\n\nStatistical assumptions\nDiagnostic tools in R\n\n\nDiscuss assumptions of normality, linearity, independence, and homoscedasticity. Use residual plots, QQ plots, and statistical tests to evaluate assumptions.\n\n\n\nWeek 6-7\nModule 4: Correlation Analysis\n\nPearson and Spearman correlations\nCorrelation matrices and heatmaps\n\n\nIntroduce correlation coefficients and their interpretation.\nUse R to compute and visualize correlation matrices. Discuss multicollinearity.\n\n\n\nWeek 8-9\nModule 5: Regression Analysis\n\nSimple linear regression\nMultiple regression\nModel diagnostics\n\n\nEstimate and interpret regression coefficients.\nDiscuss model fit and R².\nExtend regression to multiple predictors.\nDiscuss interaction terms and dummy variables.\nUse R to assess residuals, leverage, and influence.\nDiscuss multicollinearity and heteroscedasticity. |\n\n\n\nWeek 10\nModule 6: Logistic Regression\n\nBinary outcome modeling\nOdds ratios and interpretation\n\n\nIntroduce logistic regression for categorical dependent variables.\nDiscuss log-odds, odds ratios, and model fit statistics.\nApply logistic regression in R.\n\n\n\nWeek 11\nModule 7: Tests on Means\n\nOne-sample and two-sample t-tests\nANOVA\n\n\nConduct hypothesis tests on means.\nDiscuss assumptions and interpretation.\nIntroduce analysis of variance for comparing multiple group means.\nApply tests using R.\n\n\n\nWeek 12\nModule 8: Non-Parametric Tests\n\nMann-Whitney U and Kruskal-Wallis tests\nChi-square tests\n\n\nIntroduce non-parametric alternatives to t-tests and ANOVA.\nDiscuss when and why to use them.\nApply tests for independence and goodness-of-fit.\nUse R for implementation and interpretation.\n\n\n\nWeek 13-14\nModule 9: Exploratory Factor Analysis (EFA)\n\nPurpose and logic of EFA\nExtraction and rotation methods\nInterpretation and application\n\n\nDiscuss the rationale for uncovering latent constructs and reducing dimensionality.\nIntroduce principal components, eigenvalues, and rotation techniques.\nInterpret factor loadings and apply EFA to real-world datasets using R.",
     "crumbs": [
       "Home"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "m1-intro-stat.html",
+    "href": "m1-intro-stat.html",
+    "title": "Module 1: Introduction to Statistical Methods",
+    "section": "",
+    "text": "Research process\nTypes of data analysis\nGenerating and testing theories\nLevels of measurement\nValidity and reliability\nCentral tendency\nType of hypotheses\nView slides in new window",
+    "crumbs": [
+      "Topics",
+      "Module 1: Introduction to Statistical Methods"
+    ]
+  },
+  {
+    "objectID": "m1-intro-stat.html#task-1-theory-hypotheses-and-research-questions",
+    "href": "m1-intro-stat.html#task-1-theory-hypotheses-and-research-questions",
+    "title": "Module 1: Introduction to Statistical Methods",
+    "section": "Task 1: theory, hypotheses, and research questions",
+    "text": "Task 1: theory, hypotheses, and research questions\n\n\n\n\n\n\nTask submission\n\n\n\nSubmit your responses to the google form provided below.\n\nsubmission link: Task 1 submission\n\n\n\nObjective:\nThis assignment introduces the logic of empirical research by guiding you through theory development, hypothesis formulation, and research question design. Your focus will be on university students as the population of interest. Later in the course, you will gather and analyze data to test your ideas.\nInstructions:\n\nDevelop a Theory\n\n\nPropose a brief theoretical statement (or set of statements) that explains a relationship between two or more variables relevant to university student behavior, attitudes, or outcomes. Your theory should reflect a plausible mechanism or pattern that could be tested statistically.\nExamples:\n\nStudents who sleep fewer than six hours per night are more likely to report academic stress.\nParticipation in student organizations improves self-reported leadership confidence.\nStudents with part-time jobs are less likely to attend extracurricular academic seminars.\n\n\n\nFormulate Hypotheses\n\n\nBased on your theory, write at least one testable hypothesis. This should be a specific, measurable statement that can be evaluated using statistical methods.\nExamples:\n\nStudents who sleep fewer than six hours will score higher on a standardized stress scale than those who sleep more.\nStudents involved in two or more organizations will rate their leadership confidence higher than those not involved.\n\n\n\nGenerate Research Questions\n\n\nWrite at least three research questions that emerge from your theory and hypotheses. These should be clear, focused, and suitable for quantitative analysis.\nExamples:\n\nWhat is the average number of hours university students sleep on weekdays?\nIs there a significant relationship between sleep duration and academic stress levels?\nDo students with part-time jobs attend fewer academic events than those without?",
+    "crumbs": [
+      "Topics",
+      "Module 1: Introduction to Statistical Methods"
     ]
   }
 ]
