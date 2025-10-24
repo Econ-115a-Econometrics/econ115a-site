@@ -40,6 +40,10 @@ website:
             text: "Module 9: Non-parametric tests"
           - href: ""
             text: "Module 10: Exploratory Factor Analysis (EFA)"
+      - section: "Midterm & Final projects"
+        contents:
+          - href: "term-01-midterm-project.qmd"
+            text: "Midterm project: Research concept note"
 
 
 

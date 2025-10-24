@@ -1,0 +1,32 @@
+---
+title: ""
+---
+
+![](plot/econ115a-econometrics)
+
+# Midterm project: Developing a Research Concept Note
+
+## Instructions:
+
+This concept note is the foundation of your midterm project for Econ115a: Econometrics. It outlines your research idea and prepares you for data analysis and modeling in the final phase of the course. Please follow the instructions below carefully:
+
+## General guidelines:
+
+-   Use Arial font, size 11, single spacing.
+-   Keep your responses concise, clear, and aligned with your previously submitted hypotheses and research questions.
+-   You may revise or refine your earlier submissions, but they should - remain consistent with your overall research direction.
+- Use the official concept note template provided. Download the Concept Note using this link: [Concept Note Template](https://docs.google.com/document/d/11nDNKqWgNpk9oHNfXi3_2-fVSL4IKSRJ/edit?usp=sharing&ouid=100209563543563577528&rtpof=true&sd=true)
+- Refer to the sample concept note provided as a model. It demonstrates how to clearly connect your hypotheses, questions, objectives, and data sources in a coherent econometric framework. Download the Sample Concept Note using this link: [Sample Concept Note](https://docs.google.com/document/d/10E_PL202ePaN2FwfzYfFAi2SFrOWysbB/edit?usp=sharing&ouid=100209563543563577528&rtpof=true&sd=true)
+- Submit your completed concept note as a Word document (.docx) or PDF (.pdf) file via google form. Submission link: [Submission Form](https://forms.gle/RJCFyRkiMwscTrnBA)
+
+## Concept note template instructions:
+
+| Section | What to include |
+|----|----|
+| Research Title (Working Title) | Craft a title that reflects your main hypothesis and research questions. It should be specific enough to signal your topic and variables, but flexible enough to evolve later. |
+| Brief Rationale (max 500 words) | Explain why your topic matters. Include background context, relevance to policy or development, and the gap your research aims to address. Use economic reasoning and cite any known data sources or studies if applicable. |
+| Research Hypotheses | List 1–2 testable statements based on your earlier assignment. These should be causal or correlational claims that you will evaluate using econometric methods. |
+| Research Questions (max 5) | Include up to five questions that guide your investigation. These should be answerable using data and aligned with your hypotheses. You may reuse or refine the questions from your previous assignment. |
+| Research Objectives | Write one main objective that summarizes your research aim. Then list up to three specific objectives that break down your analysis into measurable tasks. Each objective should correspond to a hypothesis or question. |
+| Data Sources | For each specific objective, identify the type of data you need (primary or secondary), and describe the specific datasets or variables you plan to use. Be realistic and specific. |
+| Optional: Proposed Methodologies | Briefly describe the econometric techniques you plan to use for each objective (e.g., regression analysis, difference-in-differences, instrumental variables). This section is optional but encouraged. |

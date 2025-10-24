@@ -1,14 +1,65 @@
 [
   {
-    "objectID": "m2-survey-design.html",
-    "href": "m2-survey-design.html",
-    "title": "Module 1: Survey Research Design",
+    "objectID": "term-01-midterm-project.html#instructions",
+    "href": "term-01-midterm-project.html#instructions",
+    "title": "Midterm project: Developing a Research Concept Note",
+    "section": "Instructions:",
+    "text": "Instructions:\nThis concept note is the foundation of your midterm project for Econ115a: Econometrics. It outlines your research idea and prepares you for data analysis and modeling in the final phase of the course. Please follow the instructions below carefully:",
+    "crumbs": [
+      "Midterm & Final projects",
+      "Midterm project: Research concept note"
+    ]
+  },
+  {
+    "objectID": "term-01-midterm-project.html#general-guidelines",
+    "href": "term-01-midterm-project.html#general-guidelines",
+    "title": "Midterm project: Developing a Research Concept Note",
+    "section": "General guidelines:",
+    "text": "General guidelines:\n\nUse Arial font, size 11, single spacing.\nKeep your responses concise, clear, and aligned with your previously submitted hypotheses and research questions.\nYou may revise or refine your earlier submissions, but they should - remain consistent with your overall research direction.\nUse the official concept note template provided. Download the Concept Note using this link: Concept Note Template\nRefer to the sample concept note provided as a model. It demonstrates how to clearly connect your hypotheses, questions, objectives, and data sources in a coherent econometric framework. Download the Sample Concept Note using this link: Sample Concept Note\nSubmit your completed concept note as a Word document (.docx) or PDF (.pdf) file via google form. Submission link: Submission Form",
+    "crumbs": [
+      "Midterm & Final projects",
+      "Midterm project: Research concept note"
+    ]
+  },
+  {
+    "objectID": "term-01-midterm-project.html#concept-note-template-instructions",
+    "href": "term-01-midterm-project.html#concept-note-template-instructions",
+    "title": "Midterm project: Developing a Research Concept Note",
+    "section": "Concept note template instructions:",
+    "text": "Concept note template instructions:\n\n\n\n\n\n\n\nSection\nWhat to include\n\n\n\n\nResearch Title (Working Title)\nCraft a title that reflects your main hypothesis and research questions. It should be specific enough to signal your topic and variables, but flexible enough to evolve later.\n\n\nBrief Rationale (max 500 words)\nExplain why your topic matters. Include background context, relevance to policy or development, and the gap your research aims to address. Use economic reasoning and cite any known data sources or studies if applicable.\n\n\nResearch Hypotheses\nList 1–2 testable statements based on your earlier assignment. These should be causal or correlational claims that you will evaluate using econometric methods.\n\n\nResearch Questions (max 5)\nInclude up to five questions that guide your investigation. These should be answerable using data and aligned with your hypotheses. You may reuse or refine the questions from your previous assignment.\n\n\nResearch Objectives\nWrite one main objective that summarizes your research aim. Then list up to three specific objectives that break down your analysis into measurable tasks. Each objective should correspond to a hypothesis or question.\n\n\nData Sources\nFor each specific objective, identify the type of data you need (primary or secondary), and describe the specific datasets or variables you plan to use. Be realistic and specific.\n\n\nOptional: Proposed Methodologies\nBriefly describe the econometric techniques you plan to use for each objective (e.g., regression analysis, difference-in-differences, instrumental variables). This section is optional but encouraged.",
+    "crumbs": [
+      "Midterm & Final projects",
+      "Midterm project: Research concept note"
+    ]
+  },
+  {
+    "objectID": "m1-intro-stat.html",
+    "href": "m1-intro-stat.html",
+    "title": "Module 1: Introduction to Statistical Methods",
     "section": "",
-    "text": "Methods of data collection\nSampling design in surveys\nMeasurement issues in survey research\nQuestionnaire construction\nBasics of interviewing\nCreating a codebook\nData entry\n\nView slides in new window\n\n\n\n\n\n\n\n\n\n\nPresentation keyboard shortcuts\n\n\n\n\n\n\nUse ← and → to navigate through the slides\n\n\nUse F to toggle full screen\n\n\nUse O to view an overview of all slides\n\n\nUse ? to see a list of other shortcuts",
+    "text": "Research process\nTypes of data analysis\nGenerating and testing theories\nLevels of measurement\nValidity and reliability\nCentral tendency\nType of hypotheses\nView slides in new window",
     "crumbs": [
       "Topics",
-      "Module 2: Survey Research Design"
+      "Module 1: Introduction to Statistical Methods"
     ]
+  },
+  {
+    "objectID": "m1-intro-stat.html#task-1-theory-hypotheses-and-research-questions",
+    "href": "m1-intro-stat.html#task-1-theory-hypotheses-and-research-questions",
+    "title": "Module 1: Introduction to Statistical Methods",
+    "section": "Task 1: theory, hypotheses, and research questions",
+    "text": "Task 1: theory, hypotheses, and research questions\n\n\n\n\n\n\nTask submission\n\n\n\nSubmit your responses to the google form provided below.\n\nsubmission link: Task 1 submission\n\n\n\nObjective:\nThis assignment introduces the logic of empirical research by guiding you through theory development, hypothesis formulation, and research question design. Your focus will be on university students as the population of interest. Later in the course, you will gather and analyze data to test your ideas.\nInstructions:\n\nDevelop a Theory\n\n\nPropose a brief theoretical statement (or set of statements) that explains a relationship between two or more variables relevant to university student behavior, attitudes, or outcomes. Your theory should reflect a plausible mechanism or pattern that could be tested statistically.\nExamples:\n\nStudents who sleep fewer than six hours per night are more likely to report academic stress.\nParticipation in student organizations improves self-reported leadership confidence.\nStudents with part-time jobs are less likely to attend extracurricular academic seminars.\n\n\n\nFormulate Hypotheses\n\n\nBased on your theory, write at least one testable hypothesis. This should be a specific, measurable statement that can be evaluated using statistical methods.\nExamples:\n\nStudents who sleep fewer than six hours will score higher on a standardized stress scale than those who sleep more.\nStudents involved in two or more organizations will rate their leadership confidence higher than those not involved.\n\n\n\nGenerate Research Questions\n\n\nWrite at least three research questions that emerge from your theory and hypotheses. These should be clear, focused, and suitable for quantitative analysis.\nExamples:\n\nWhat is the average number of hours university students sleep on weekdays?\nIs there a significant relationship between sleep duration and academic stress levels?\nDo students with part-time jobs attend fewer academic events than those without?",
+    "crumbs": [
+      "Topics",
+      "Module 1: Introduction to Statistical Methods"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "index.html",
@@ -31,32 +82,14 @@
     ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "m2-survey-design.html",
+    "href": "m2-survey-design.html",
+    "title": "Module 1: Survey Research Design",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "m1-intro-stat.html",
-    "href": "m1-intro-stat.html",
-    "title": "Module 1: Introduction to Statistical Methods",
-    "section": "",
-    "text": "Research process\nTypes of data analysis\nGenerating and testing theories\nLevels of measurement\nValidity and reliability\nCentral tendency\nType of hypotheses\nView slides in new window",
+    "text": "Methods of data collection\nSampling design in surveys\nMeasurement issues in survey research\nQuestionnaire construction\nBasics of interviewing\nCreating a codebook\nData entry\n\nView slides in new window\n\n\n\n\n\n\n\n\n\n\nPresentation keyboard shortcuts\n\n\n\n\n\n\nUse ← and → to navigate through the slides\n\n\nUse F to toggle full screen\n\n\nUse O to view an overview of all slides\n\n\nUse ? to see a list of other shortcuts",
     "crumbs": [
       "Topics",
-      "Module 1: Introduction to Statistical Methods"
-    ]
-  },
-  {
-    "objectID": "m1-intro-stat.html#task-1-theory-hypotheses-and-research-questions",
-    "href": "m1-intro-stat.html#task-1-theory-hypotheses-and-research-questions",
-    "title": "Module 1: Introduction to Statistical Methods",
-    "section": "Task 1: theory, hypotheses, and research questions",
-    "text": "Task 1: theory, hypotheses, and research questions\n\n\n\n\n\n\nTask submission\n\n\n\nSubmit your responses to the google form provided below.\n\nsubmission link: Task 1 submission\n\n\n\nObjective:\nThis assignment introduces the logic of empirical research by guiding you through theory development, hypothesis formulation, and research question design. Your focus will be on university students as the population of interest. Later in the course, you will gather and analyze data to test your ideas.\nInstructions:\n\nDevelop a Theory\n\n\nPropose a brief theoretical statement (or set of statements) that explains a relationship between two or more variables relevant to university student behavior, attitudes, or outcomes. Your theory should reflect a plausible mechanism or pattern that could be tested statistically.\nExamples:\n\nStudents who sleep fewer than six hours per night are more likely to report academic stress.\nParticipation in student organizations improves self-reported leadership confidence.\nStudents with part-time jobs are less likely to attend extracurricular academic seminars.\n\n\n\nFormulate Hypotheses\n\n\nBased on your theory, write at least one testable hypothesis. This should be a specific, measurable statement that can be evaluated using statistical methods.\nExamples:\n\nStudents who sleep fewer than six hours will score higher on a standardized stress scale than those who sleep more.\nStudents involved in two or more organizations will rate their leadership confidence higher than those not involved.\n\n\n\nGenerate Research Questions\n\n\nWrite at least three research questions that emerge from your theory and hypotheses. These should be clear, focused, and suitable for quantitative analysis.\nExamples:\n\nWhat is the average number of hours university students sleep on weekdays?\nIs there a significant relationship between sleep duration and academic stress levels?\nDo students with part-time jobs attend fewer academic events than those without?",
-    "crumbs": [
-      "Topics",
-      "Module 1: Introduction to Statistical Methods"
+      "Module 2: Survey Research Design"
     ]
   }
 ]
